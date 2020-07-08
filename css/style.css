@@ -111,4 +111,7 @@ html, body {
         width : 70%;
         margin-bottom: 2%;
     }
+    .story-box {
+    	margin-left: 15%;
+    }
   }
